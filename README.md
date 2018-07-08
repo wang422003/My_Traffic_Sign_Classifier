@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 
 This project includes
 
-- The notebook `Traffic_Sign_Classifier_My_Project.ipynb` (and `signames.csv` for completeness)
+- The notebook `Traffic_SIgn_Classifier_My_Project.ipynb` (and `signames.csv` for completeness)
 - `report.html`, the exported HTML version of the python notebook
 - A directory `test_images` containing images found on the web
 - `README.md`, which you're reading
